@@ -1,0 +1,6 @@
+# robots.txt for How Busy?
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://howbusy.co.uk/sitemap.xml
