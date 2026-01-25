@@ -544,6 +544,12 @@ footer {
         justify-content: center;
     }
 
+    .hero-phones {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+    }
+
     .phone-frame.iphone {
         width: 240px;
     }
@@ -617,6 +623,12 @@ footer {
     .store-badge img[alt*="Google Play"] {
         height: 54px;
         margin: -9px 0;
+    }
+
+    .hero-phones {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
     }
 
     .phone-frame.iphone {
